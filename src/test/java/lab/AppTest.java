@@ -6,6 +6,6 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 class AppTest {
     @Test
     void greetingIsCorrect() {
-        assertEquals("Hello DevOps", App.greeting());
+        assertEquals("Hello Jenkins", App.greeting());
     }
 }
